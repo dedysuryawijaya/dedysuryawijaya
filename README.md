@@ -1,12 +1,14 @@
 ## Hi there 👋
 
- <div>
-  <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedysuryawijaya&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedysuryawijaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+<div align="center">
+  <a href="https://github.com/dedysuryawijaya">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedysuryawijaya&layout=compact&langs_count=16&theme=dracula" />
+  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dedysuryawijaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" />
 </div>
 
-![Snake animation](https://github.com/dedysuryawijaya/dedysuryawijaya/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/dedysuryawijaya/dedysuryawijaya/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **dedysuryawijaya/dedysuryawijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
