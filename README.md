@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![snake animation](https://raw.githubusercontent.com/dedysuryawijaya/dedysuryawijaya/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **dedysuryawijaya/dedysuryawijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
