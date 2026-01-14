@@ -1,13 +1,19 @@
 ## Hi there 👋
 
 <div align="center">
-  <a href="https://github.com/dedysuryawijaya">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedysuryawijaya&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dedysuryawijaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" />
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedysuryawijaya&layout=compact&theme=dracula&hide_border=true" />
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=dedysuryawijaya&show_icons=true&theme=dracula&hide_border=true" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/dedysuryawijaya/dedysuryawijaya/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/dedysuryawijaya/dedysuryawijaya/output/github-contribution-grid-snake-dark.svg">
+  <img 
+    src="https://raw.githubusercontent.com/dedysuryawijaya/dedysuryawijaya/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 <!--
